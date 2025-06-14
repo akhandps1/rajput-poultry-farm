@@ -10,7 +10,7 @@ function Contact() {
             Phone: <a href="tel:+91 96530 57882" className="text-orange-400 hover:underline">+91 96530 57882</a>
           </p>
           <p className="text-lg mb-4">
-            Email: <a href="mailto:arunkumar1981gmail.com" className="text-orange-400 hover:underline">arunkumar1981gmail.com</a>
+            Email: <a href="mailto:arunkumar1981@gmail.com" className="text-orange-400 hover:underline">arunkumar1981@gmail.com</a>
           </p>
           <p className="text-lg mb-8">Open 24/7 for your convenience</p>
           {/* Location Map */}
