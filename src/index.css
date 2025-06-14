@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Tailwind Styles */
+.hero-slide {
+  transition: opacity 0.5s ease-in-out; /* Smooth fade transition */
+}
+.gallery-img {
+  transition: transform 0.3s ease;
+}
+.gallery-img:hover {
+  transform: scale(1.05);
+}
+.hero-overlay {
+  background: rgba(0, 0, 0, 0.6); /* Dark overlay for text contrast */
+}
